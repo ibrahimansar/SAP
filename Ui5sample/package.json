@@ -1,15 +1,15 @@
 {
-  "name": "Ui5sample",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@ui5/cli": "^2.6.2"
-  }
+ "name": "UI5APP",
+ "version": "1.0.0",
+ "description": "UI5 application.json",
+ "scripts": {
+  "proxy": "node proxy.js"
+ },
+ "devDependencies": {
+  "cors-anywhere": "^0.4.1"
+ },
+ "main": "index.js",
+ "keywords": [],
+ "author": "",
+ "license": "ISC"
 }

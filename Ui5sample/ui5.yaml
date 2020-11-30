@@ -1,6 +1,6 @@
 specVersion: '2.2'
 metadata:
-  name: Ui5sample
+  name: UI5APP
 type: application
 framework:
   name: SAPUI5
